@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051736525065",
+    "project_id": "test-3c91d",
+    "storage_bucket": "test-3c91d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051736525065:android:27e185439ef53625546bd8",
+        "android_client_info": {
+          "package_name": "com.exponoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051736525065-577ja5kc5he4meo3f06n35c9nkbcrbri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifxy_BkFFEKTQlBzMGiSf7TAJVfqKchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051736525065-577ja5kc5he4meo3f06n35c9nkbcrbri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
